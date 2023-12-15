@@ -29,6 +29,10 @@ Bookings is made up of these components:
 
 2. A web app that contains a set of web-based, business-facing pages where Bookings calendar owners and administrators within an organization can define appointment types and details, manage staff schedules and availability, set business hours, and customize how appointments are scheduled. These pages allow for versatility and the ability to customize a Bookings calendar to fit the diverse needs of the person or organization.
 
+###### Personal Booking intro #####
+
+
+
 ###### Before you begin #####
 Microsoft Bookings is available in the following subscriptions:
 
