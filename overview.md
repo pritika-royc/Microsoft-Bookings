@@ -3,11 +3,16 @@ title: Bookings Overview
 layout: home
 nav_order: 1
 ---
-### Microsoft Bookings ###
-In this article
+## Microsoft Bookings ##
+#### In this article ####
+
 Before you begin
+
 Watch: Introducing Microsoft Bookings
+
 Next steps
+
+
 Check out all of our small business content on Small business help & learning.
 
 Microsoft Bookings makes scheduling and managing appointments a breeze. Bookings includes a web-based booking calendar and integrates with Outlook to optimize your staff’s calendar and give your customers flexibility to book a time that works best for them. Email and SMS text notifications reduce no-shows and enhances customer satisfaction. Your organization saves time with a reduction in repetitive scheduling tasks. With built-in flexibility and ability to customize, Bookings can be designed to fit the situation and needs of many different parts of an organization.
@@ -20,9 +25,9 @@ Use Bookings to make your organization’s meetings virtual with online meetings
 
 Bookings is made up of these components:
 
-A booking page where your customers and clients can schedule appointments with the staff member who should provide the service or run the appointment. This web-based scheduling page can be shared via a direct link, your Facebook page, and even through link embedding within your website.
+1. A booking page where your customers and clients can schedule appointments with the staff member who should provide the service or run the appointment. This web-based scheduling page can be shared via a direct link, your Facebook page, and even through link embedding within your website.
 
-A web app that contains a set of web-based, business-facing pages where Bookings calendar owners and administrators within an organization can define appointment types and details, manage staff schedules and availability, set business hours, and customize how appointments are scheduled. These pages allow for versatility and the ability to customize a Bookings calendar to fit the diverse needs of the person or organization.
+2. A web app that contains a set of web-based, business-facing pages where Bookings calendar owners and administrators within an organization can define appointment types and details, manage staff schedules and availability, set business hours, and customize how appointments are scheduled. These pages allow for versatility and the ability to customize a Bookings calendar to fit the diverse needs of the person or organization.
 
 ###### Before you begin #####
 Microsoft Bookings is available in the following subscriptions:
@@ -33,7 +38,7 @@ Microsoft 365: A3, A5, E1, E3, E5, F1, F3, Business Basic, Business Standard, Bu
 #### Watch: Introducing Microsoft Bookings #####
 <p>Here is the video</p>
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
