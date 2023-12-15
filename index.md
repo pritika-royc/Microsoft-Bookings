@@ -2,4 +2,4 @@
 title: Home
 layout: home
 ---
-Lets see how this works
+Lets see how this works now
