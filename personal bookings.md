@@ -3,6 +3,7 @@ title: Customize your Personal Booking Page
 layout: home
 nav_order: 2
 parent: Bookings for end users
+has_children: true
 ---
 •	Personal Bookings – Overview (Concept)
 •	Preview your booking page (View the experience your customers will see)
