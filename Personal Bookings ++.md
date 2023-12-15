@@ -5,6 +5,9 @@ nav_order: 1
 parent: Customize your Personal Booking Page
 grand_parent: Bookings for end users
 ---
+# Personal Bookings ++
+{: .no_toc }
+
 ## Table of contents
 {: .no_toc .text-delta }
 
