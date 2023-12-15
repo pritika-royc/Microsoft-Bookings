@@ -3,7 +3,6 @@ title: Customize your Shared Booking Page
 layout: home
 nav_order: 3
 parent: Bookings for end users
-grand_parent: Bookings for end users
 has_children: true
 ---
 •	Shared Bookings ++
