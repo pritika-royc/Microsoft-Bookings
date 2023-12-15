@@ -24,13 +24,19 @@ A booking page where your customers and clients can schedule appointments with t
 
 A web app that contains a set of web-based, business-facing pages where Bookings calendar owners and administrators within an organization can define appointment types and details, manage staff schedules and availability, set business hours, and customize how appointments are scheduled. These pages allow for versatility and the ability to customize a Bookings calendar to fit the diverse needs of the person or organization.
 
-##### Before you begin ####
+###### Before you begin #####
 Microsoft Bookings is available in the following subscriptions:
 
 Office 365: A3, A5, E1, E3, E5, F1, F3, G1, G3, and G5
 Microsoft 365: A3, A5, E1, E3, E5, F1, F3, Business Basic, Business Standard, Business Premium
 
 #### Watch: Introducing Microsoft Bookings #####
+<p>Here is the video</p>
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
 
 Bookings makes it easier for small businesses to schedule and manage appointments with their customers.
 
