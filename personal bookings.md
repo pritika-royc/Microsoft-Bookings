@@ -5,9 +5,17 @@ nav_order: 2
 parent: Bookings for end users
 has_children: true
 ---
-## Personal Bookings ##
+
+# Personal Bookings ++
+{: .no_toc }
 
 We have put together a few steps for you to set up and share your personal booking page.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ### Preview your booking page (View the experience your customers will see) ###
 
@@ -17,12 +25,10 @@ On your homepage, you’ll notice a pre-built meeting type with a set duration (
 
 Choose to either:
 
-Create a new event type
-
-Edit the existing event type
-
+#### Create a new event type ####
 Show create new meeting type flow
 
+#### Edit the existing event type ####
 Show edit meeting type flow using templates
 
 #### We’ll point out a few important settings: ####
