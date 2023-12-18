@@ -6,7 +6,7 @@ parent: Bookings for end users
 has_children: true
 ---
 
-# Personal Bookings ++
+# Personal Bookings 
 {: .no_toc }
 
 We have put together a few steps for you to set up and share your personal booking page.
