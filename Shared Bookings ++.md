@@ -1,5 +1,5 @@
 ---
-title: Shared Bookings Advance
+title: Shared Bookings ++
 layout: home
 nav_order: 1
 parent: Customize your Shared Booking Page
