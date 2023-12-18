@@ -1,5 +1,5 @@
 ---
-title: Bookings on Mobile
+title: Bookings on Mobile, Teams and OWA
 layout: home
 nav_order: 4
 parent: Bookings for end users
