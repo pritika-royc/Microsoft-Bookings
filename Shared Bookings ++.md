@@ -5,7 +5,7 @@ nav_order: 1
 parent: Customize your Shared Booking Page
 grand_parent: Bookings for end users
 ---
-# Personal Bookings ++
+# Shared Bookings ++
 {: .no_toc }
 
 ## Table of contents
