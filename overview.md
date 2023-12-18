@@ -4,16 +4,6 @@ layout: home
 nav_order: 1
 ---
 ## Microsoft Bookings ##
-#### In this article ####
-
-Before you begin
-
-Watch: Introducing Microsoft Bookings
-
-Next steps
-
-
-Check out all of our small business content on Small business help & learning.
 
 Microsoft Bookings makes scheduling and managing appointments a breeze. Bookings includes a web-based booking calendar and integrates with Outlook to optimize your staff’s calendar and give your customers flexibility to book a time that works best for them. Email and SMS text notifications reduce no-shows and enhances customer satisfaction. Your organization saves time with a reduction in repetitive scheduling tasks. With built-in flexibility and ability to customize, Bookings can be designed to fit the situation and needs of many different parts of an organization.
 
