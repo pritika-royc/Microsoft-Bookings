@@ -18,10 +18,3 @@ grand_parent: Bookings for end users
 ## 1. Turn off your booking page ##
 testing 1
 
-
-
-## 6. Add your booking page link to your email signature. ##
-testing 6
-
-## 7. Custom fields ##
-testing 7
