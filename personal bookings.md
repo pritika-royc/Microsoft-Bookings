@@ -1,5 +1,5 @@
 ---
-title: Customize your Personal Booking Page
+title: Learn about Personal Bookings
 layout: home
 nav_order: 2
 parent: Bookings for end users
