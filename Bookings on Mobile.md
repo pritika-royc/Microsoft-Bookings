@@ -3,6 +3,7 @@ title: Bookings on Mobile, Teams and OWA
 layout: home
 nav_order: 4
 parent: Bookings for end users
+has_children: true
 ---
 •	Highlight how to access bookings on mobile web.
 
