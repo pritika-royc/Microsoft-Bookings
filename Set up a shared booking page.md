@@ -16,11 +16,4 @@ has_children: true
 {:toc}
 
 
-## 1. Enter your business information ##
-testing 1
-## 2. Define your Bookings service offerings##
-testing 2
-## 3. Add staff to Bookings ##
-testing 3
-## 4. Share your Shared Booking page ##
-testing 4
+
