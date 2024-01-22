@@ -3,7 +3,6 @@ title: Best Practices
 layout: home
 nav_order: 4
 parent: Bookings for Admins
-grand_parent: Bookings for end users
 ---
 # Set your Banner Image
 {: .no_toc }
