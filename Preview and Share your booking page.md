@@ -25,9 +25,3 @@ testing 2
 testing 3
 
 
-
-## 6. Add your booking page link to your email signature. ##
-testing 6
-
-## 7. Custom fields ##
-testing 7
