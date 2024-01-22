@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 parent: Learn about Shared Bookings
 grand_parent: Bookings for end users
+has_children: true
 ---
 # Set your Banner Image
 {: .no_toc }
