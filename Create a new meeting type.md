@@ -1,8 +1,8 @@
 ---
-title: Personal Bookings ++
+title: Create a new meeting type
 layout: home
 nav_order: 1
-parent: Customize your Personal Booking Page
+parent: Learn about Personal Bookings
 grand_parent: Bookings for end users
 ---
 # Personal Bookings ++
