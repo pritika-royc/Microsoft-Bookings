@@ -15,7 +15,5 @@ grand_parent: Bookings for end users
 {:toc}
 
 
-
 ## 1. Set/Edit your banner image. ##
 testing 1
-
