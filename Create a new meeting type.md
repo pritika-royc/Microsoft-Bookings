@@ -4,6 +4,7 @@ layout: home
 nav_order: 1
 parent: Learn about Personal Bookings
 grand_parent: Bookings for end users
+has_children: true
 ---
 # Create a new meeting type
 {: .no_toc }
