@@ -1,7 +1,7 @@
 ---
 title: Preview and Share your booking page
 layout: home
-nav_order: 1
+nav_order: 2
 parent: Learn about Personal Bookings
 grand_parent: Bookings for end users
 ---
