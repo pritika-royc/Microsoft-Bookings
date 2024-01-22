@@ -1,7 +1,7 @@
 ---
 title: Add email reminders and follow up
 layout: home
-nav_order: 1
+nav_order: 3
 parent: Learn about Personal Bookings
 grand_parent: Bookings for end users
 ---
