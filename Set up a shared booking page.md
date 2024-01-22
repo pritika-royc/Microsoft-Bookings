@@ -1,5 +1,5 @@
 ---
-title: Set your Banner Image
+title: Set up a shared booking page
 layout: home
 nav_order: 1
 parent: Learn about Shared Bookings
