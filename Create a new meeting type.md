@@ -15,24 +15,17 @@ grand_parent: Bookings for end users
 {:toc}
 
 
-## 1. Add email reminders and follow up. ##
+## 1. Create a new meeting type ##
 testing 1
 
-## 2. Set/Edit your banner image. ##
+## 2. Edit an existing meeting type (using templates) ##
 testing 2
 
 ## 3. What are public and private meetings? ##
 testing 3
 
-## 4. Turn off your booking page. ##
-testing 4
-
-## 5. Duplicate a meeting type. ##
+## 4. Duplicate a meeting type. ##
 testing 5
 
-## 6. Add your booking page link to your email signature. ##
-testing 6
 
-## 7. Custom fields ##
-testing 7
 
