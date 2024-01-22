@@ -1,5 +1,5 @@
 ---
-title: Customize your Shared Booking Page
+title: Learn about Shared Bookings
 layout: home
 nav_order: 3
 parent: Bookings for end users
